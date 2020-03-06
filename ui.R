@@ -17,7 +17,6 @@ shinyUI(fluidPage(
 
     headerPanel(h4("This app will compute the area under a normal curve between two specified values.")),
     
-    # Sidebar with a slider input for number of bins
     sidebarLayout(
         sidebarPanel(
             
